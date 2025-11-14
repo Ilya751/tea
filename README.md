@@ -1,6 +1,6 @@
 # Tea
 
-Desktop layout for a tea-themed website. Responsive design included. No animations yet.
+Desktop layout for a tea-themed website. Responsive design included.
 
 ## Screenshots
 
@@ -17,3 +17,4 @@ Open `index.html` in your browser.
 - Flexbox and Grid layout
 - Responsive design for screens > 480px
 - Decorative elements added with ::before and ::after
+- Using JS for menu
